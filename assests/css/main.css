@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(175, 179, 238);
+}
+
+.navbar-custom{
+    background-color: rgb(51, 129, 153);
+}
+
+.single-post{
+    margin-top: 3.5rem;
+}
+
+.single-post h2{
+    margin-top: 20px;
+    color: rebeccapurple;
+}
+
+
+
+.post{
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+#menu-primary-menu .menu-item a {
+    color:whitesmoke;
+} 
+
+.About h3 {
+    color: rebeccapurple;
+}
+
+.skills h4{
+    color: rebeccapurple;
+}
+
+.skills .col-md-6 a h2{
+    color:black;
+}
